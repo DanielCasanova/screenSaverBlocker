@@ -1,0 +1,13 @@
+D:\Dropbox\Stuff\Aplications\ScreenSaverBlocker\ScreenSaverBlocker\bin\Debug\ScreenSaverBlocker.exe.config
+D:\Dropbox\Stuff\Aplications\ScreenSaverBlocker\ScreenSaverBlocker\bin\Debug\ScreenSaverBlocker.exe.manifest
+D:\Dropbox\Stuff\Aplications\ScreenSaverBlocker\ScreenSaverBlocker\bin\Debug\ScreenSaverBlocker.application
+D:\Dropbox\Stuff\Aplications\ScreenSaverBlocker\ScreenSaverBlocker\bin\Debug\ScreenSaverBlocker.exe
+D:\Dropbox\Stuff\Aplications\ScreenSaverBlocker\ScreenSaverBlocker\bin\Debug\ScreenSaverBlocker.pdb
+D:\Dropbox\Stuff\Aplications\ScreenSaverBlocker\ScreenSaverBlocker\obj\Debug\ScreenSaverBlocker.Main.resources
+D:\Dropbox\Stuff\Aplications\ScreenSaverBlocker\ScreenSaverBlocker\obj\Debug\ScreenSaverBlocker.Properties.Resources.resources
+D:\Dropbox\Stuff\Aplications\ScreenSaverBlocker\ScreenSaverBlocker\obj\Debug\ScreenSaverBlocker.csproj.GenerateResource.Cache
+D:\Dropbox\Stuff\Aplications\ScreenSaverBlocker\ScreenSaverBlocker\obj\Debug\ScreenSaverBlocker.exe.manifest
+D:\Dropbox\Stuff\Aplications\ScreenSaverBlocker\ScreenSaverBlocker\obj\Debug\ScreenSaverBlocker.application
+D:\Dropbox\Stuff\Aplications\ScreenSaverBlocker\ScreenSaverBlocker\obj\Debug\ScreenSaverBlocker.exe
+D:\Dropbox\Stuff\Aplications\ScreenSaverBlocker\ScreenSaverBlocker\obj\Debug\ScreenSaverBlocker.pdb
+D:\Dropbox\Stuff\Aplications\ScreenSaverBlocker\ScreenSaverBlocker\obj\Debug\ScreenSaverBlocker.csprojResolveAssemblyReference.cache
